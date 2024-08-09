@@ -177,7 +177,7 @@ class AnimatedCirclesState extends State<AnimatedCircles>
           return CustomPaint(
             painter: CirclePainter(_animation.value),
             child: const SizedBox(
-              width: 800.0, // ここで幅を設定
+              width: 800.0,
               height: 800.0,
             ),
           );
