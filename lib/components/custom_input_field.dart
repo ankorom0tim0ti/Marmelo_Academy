@@ -51,19 +51,19 @@ class _CustomInputFieldState extends State<CustomInputField> {
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(8),
           borderSide: BorderSide(
-            color: themeColor, // ボーダーの色
+            color: themeColor,
           ),
         ),
         enabledBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(8),
           borderSide: BorderSide(
-            color: themeColor, // 有効時のボーダーの色
+            color: themeColor,
           ),
         ),
         focusedBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(8),
           borderSide: BorderSide(
-            color: themeColor, // フォーカス時のボーダーの色
+            color: themeColor,
           ),
         ),
         ),
