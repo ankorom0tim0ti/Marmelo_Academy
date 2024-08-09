@@ -67,7 +67,6 @@ class _CustomInputFieldState extends State<CustomInputField> {
           ),
         ),
         ),
-      //),
       minLines: widget.minLines,
       maxLines: widget.maxLines,
       cursorColor:themeColor,
