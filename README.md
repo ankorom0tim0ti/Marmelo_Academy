@@ -1,6 +1,10 @@
 # What is Marmelo Acaademy
 
-Marmelo Academy is a university for developing new generative AI based application together
+- Marmelo Academy helps teams with diverse talents and backgrounds come together to develop Gen-AI powered applications, providing comprehensive support throughout the process.
+- Key features include group matching and Gemini facilitation. After forming a group of five, the AI facilitator Gemini joins the group chat, assisting with brainstorming, refining ideas, and documenting tasks necessary for app development.
+- This app connects people with different skills and backgrounds to foster Gen-AI-based global innovation. It is also designed for those who may lack community or struggle with communication.
+- By using generative AI to solve challenges, users shift from fearing AI taking jobs to creating valuable new work with AI. Additionally, users can potentially earn revenue by publishing their apps and build a supportive community through team collaboration.
+
 
 # caution and apology
 
