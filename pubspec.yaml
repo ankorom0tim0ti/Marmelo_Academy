@@ -1,0 +1,51 @@
+name: marmelo_academy
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.1.1
+  cloud_firestore: ^5.1.0
+  google_sign_in: ^6.1.1
+  google_sign_in_web: ^0.12.0 
+  http: ^1.2.1
+  cloud_functions: ^5.0.3
+  flutter_markdown: ^0.7.3
+  flutter_launcher_icons: ^0.13.1
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter_icons:
+  android: true
+  image_path: "assets/app_icon.png"
+  adaptive_icon_background: "assets/app_icon.png"
+  adaptive_icon_foreground: "assets/app_icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+       - assets/marmelo_logo.png
+       - assets/entrance_1.png
+       - assets/entrance_2.png
+       - assets/Google_login.png
+       - assets/marmelo_character.png
+       - assets/group_chat.png
+       - assets/private_chat.png
+       - assets/marmelo_overview.png
+       - assets/matched.png
+       - assets/features.png
+       - assets/curriculum.png
