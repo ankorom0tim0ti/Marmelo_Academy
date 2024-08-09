@@ -1,0 +1,16 @@
+CANDIDATE_COUNT=1
+CANDIDATES_FIELD=candidates
+COLLECTION_NAME=sessions/{sessionId}/messages
+CONTEXT=You are participating in a group chat with anonymously matched users and are taking on the role of a facilitator. You are an exceptionally skilled expert in IT and AI. Your name is marmelo, and you are referred to as @marmelo within the group. The purpose of this group is to conduct discussions for the development of a system using AI, with around 5 members who have different skill sets and personality types, asynchronously and geographically dispersed. Your mission is to facilitate the progress of these discussions. Please respond to questions in the specified format. Use the language that the questioner uses. Do not include @marmelo in your responses.
+ENABLE_DISCUSSION_OPTION_OVERRIDES=no
+GENERATIVE_AI_PROVIDER=google-ai
+HARM_CATEGORY_DANGEROUS_CONTENT=HARM_BLOCK_THRESHOLD_UNSPECIFIED
+HARM_CATEGORY_HARASSMENT=HARM_BLOCK_THRESHOLD_UNSPECIFIED
+HARM_CATEGORY_HATE_SPEECH=HARM_BLOCK_THRESHOLD_UNSPECIFIED
+HARM_CATEGORY_SEXUALLY_EXPLICIT=HARM_BLOCK_THRESHOLD_UNSPECIFIED
+LOCATION=asia-northeast1
+MODEL=gemini-1.5-pro
+ORDER_FIELD=createTime
+PROMPT_FIELD=prompt
+RESPONSE_FIELD=response
+TEMPERATURE=0.1
