@@ -25,13 +25,13 @@ class CustomButton extends StatelessWidget {
         backgroundColor: WidgetStateProperty.resolveWith<Color?>(
           (Set<WidgetState> states) {
             if (states.contains(WidgetState.disabled)) {
-              return disebleColor; // 無効なときの色
+              return disebleColor;
             }
-            return themeColor; // 有効なときの色
+            return themeColor;
           },
         ),
         foregroundColor: WidgetStateProperty.all<Color>(
-          isEnabled ? messageColor : messageColor, // テキストの色も調整
+          isEnabled ? messageColor : messageColor,
         ),
       ),
     );
